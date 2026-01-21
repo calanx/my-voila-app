@@ -3,3 +3,7 @@ matplotlib
 numpy
 ipywidgets
 CoolProp
+csr_matrix
+linalg
+math
+sys
