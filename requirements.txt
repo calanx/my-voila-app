@@ -2,3 +2,4 @@ voila
 matplotlib
 numpy
 ipywidgets
+CoolProp
