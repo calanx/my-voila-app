@@ -3,7 +3,5 @@ matplotlib
 numpy
 ipywidgets
 CoolProp
-math
-sys
 scipy
 iapws
