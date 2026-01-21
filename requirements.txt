@@ -7,3 +7,5 @@ csr_matrix
 linalg
 math
 sys
+scipy
+iapws
